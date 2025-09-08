@@ -1,7 +1,7 @@
 
 |           Game            |   Date   | Genre |
 | :-----------------------: | :------: | ----- |
-| [Half-Life](Half-Life.md) | 9/8/2025 | FPS   |
+| [half-life](half-life.md) | 9/8/2025 | FPS   |
 |                           |          |       |
 |                           |          |       |
 |                           |          |       |

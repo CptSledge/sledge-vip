@@ -2,13 +2,13 @@ A *lot* of things are going to go here, but I'll probably have the newest stuff 
 
 For the time being, however, let's just get this going as a proof of concept.
 
-## [Half-Life](Half-Life.md)
+## [half-life](half-life.md)
 
-### [More stuff!](OLDS)
-
-
+### [More stuff!](olds.md)
 
 
-## [The Big Table of FPS Games...](FPS%20FRIDAY)
+
+
+## [The Big Table of FPS Games...](fps-friday.md)
 
 #### [Back...](index.md)
