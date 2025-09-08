@@ -2,7 +2,7 @@ A *lot* of things are going to go here, but I'll probably have the newest stuff 
 
 For the time being, however, let's just get this going as a proof of concept.
 
-## [half-life](half-life.md)
+## [Half-Life](games/fps/half-life.md)
 
 ### [More stuff!](olds.md)
 
