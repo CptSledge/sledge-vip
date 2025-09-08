@@ -9,6 +9,6 @@ For the time being, however, let's just get this going as a proof of concept.
 
 
 
-## [The Big Table of FPS Games...](fps-friday.md)
+## [The Big Table of FPS Games...](games/fps/fps-friday.md)
 
 #### [Back...](index.md)
