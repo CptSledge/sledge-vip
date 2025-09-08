@@ -18,4 +18,4 @@ While this website is very much a work in progress, I'm hoping for it to be an i
 
 This contains, to date, my most extensive list of thoughts currently available anywhere online. The earlier games don't have proper reviews, or even vods of any kind, but that may change some day. Hopefully, ideally, I will actually have webpages for every single one of these. But for the time being... I don't. That sheet should also have parity with this website. If it doesn't, I fucked up. (Please contact me.)
 
-## [Back...](Home)
+## [Back...](index.md)
