@@ -1,39 +1,40 @@
-I must start at the top and work my way down. (/s)
 
-A game which is very near and dear to me, I played it when I was around 6 or 7. It was one of my first FPS games, or rather, Opposing Force was my first, and I played it without ever using the mouse. Very nostalgic.
 
-To ask the question "Has Half-Life aged well?" we need to consider a few things. What did it mean to FPS gaming, indeed, gaming as a whole?
+# Background
+Ground zero for the modern concept of an FPS. This game made tremendous waves, and shook the entire industry. There were a lot of reasons for this, and it certainly didn't come out of nowhere. This was *the* game to see and play from the moment it was announced all the way up to its release. Game of the Year, and for many, the Game of All Time. This game scarcely needs an introduction, but for the purposes of this website, of course we shall do the best that we can.
 
-**Everything,** pretty much. While HL1 followed in the steps of Quake 2, or perhaps walked alongside them, HL1 raised the bar so much higher that Quake gave up and became an arena shooter. Ironically, each of the first 3 Quake games represents a completely different type of FPS gaming. Even Quake 4 has visions of Call of Duty, but it's much moreso Q2's sequel than anything else.
+Today, we know Valve as the owners of Steam. Everyone, *everyone* knows Steam, if not Valve. Whether they are one of the many consumers, or some that revile its near-monopoly on PC gaming (outside of others like EA, Ubisoft, GOG, Epic, et cetera.), it is nonetheless a household name among PC gamers. But stepping back to 1996, it was founded, nominally, by two ex-employees of Microsoft. Gabe Newell, and Mike Harrington. I would say 'their stories aren't important to this', but, well, they are!
 
-But that's just it. Half-Life 1, while not the very first game to attempt realistic locations, was one of the first narrative-based FPS games which did not merely *succeed*, it revolutionized the very genre as we knew it.
+Quite a bit, in fact!
 
-Not that I knew that as a child, of course.
+Gabe, you see, in his long-time service of Microsoft, was among the staff that developed Doom95. This is an immensely important part of the context that makes HL1 what it is. 'Horror' is an interesting word, one which seems to evolve over time both to individuals as well as to us as a society. Most people would not look at Doom, today, and think 'Horror.' But at the time of its release, it was, indeed, quite spooky. Very atmospheric, and, importantly, **extremely immersive.*** This will come up a lot.
 
-HL1 did not simply 'age well', it redefined the very age that it came from. It almost single-handedly ended an era of gaming for a span of nearly 15 years, and even then, it took people wanting to reclaim some lost nostalgia and push back against modern, evolved sensibilities to find something comfortable again.
+Immersion and horror go hand in hand. Gabe saw the success of Doom--success even in excess of Windows itself. And, realizing that he had the potential to meet the same success himself, he decided to split off of Microsoft, and make *his own* Doom. A big part *of* Doom, we would learn later on, was the Doom Bible. Reading it today, you will find an *immense* number of ambitious, immersive ideas, especially on part of Tom Hall, as to *what* Doom should be, what it should contain, what features it should strive for.
 
-But, as we think about that, we run into an interesting irony. The span of classic FPS games, of so-called "boomer shooters", only lasted, what, 5 or 6 years? The scope of technology seemed to take huge leaps and bounds in the 90s, and I think in FPS gaming, that technology was almost as acute between Doom and Quake 1 as it was between Quake 1 and Half-Life 1.
+Famously, or perhaps infamously, Half-Life would suffer from the very same type of ambition. Moss growing on textures in real time. A living ecosystem. Cockroach AI which would actually seek out trash and viscera so that it could feed. Some of these features actually made it into HL1, in the end! Others were quietly shelved to meet deadlines. But, without compromise what it gave us was *Immersion.* It gave us *Horror.* The very same immersion and horror that we saw 5 years prior in Doom.
 
-But is that *really* true? Is Quake *really* that different from HL1 on a technological level? If we really broke down what made each game tick, how different, really, does HL1 end up being?
+Half-Life was, from its inception, a horror game. It was marketed as such. Its tutorial highlights the importance of using your flashlight in dark areas. Crawling through vents. Far more than Quake 1 or 2 were before it, we are taught early on the importance of *darkness*, and the things that hide in it.
 
-It has a use button. It has reloading. It has a flashlight. It has NPCs who follow you around and open up doors for you and talk to each other.
+But that horror extends past mere shapes in the dark! That horror extends to *miscommunication,* as US Marines descend from helicopters to erase your mistakes. *Mismanagement,* as the powers that be arranged for this apocalyptic event in the first place--bureaucracy at the head of science, pushing ever forward. A crushing, overwhelming sense that, in the end, *you are completely powerless to change your own fate.* **Horror.**
 
-In truth, are any of these things actually *truly* that impressive compared to the gap between Doom and Quake?
+Opening the gates to an invasion of hellish beasts, an outmatched military, going through a portal and fixing problems on the other side, we must recognize an interesting parallel. Half-Life *is* Doom. It told the story, or at least *a form* of the story that Doom had once aspired to, and, just like Doom, it did so at the cutting edge of the technology which was possible at the time of its release. Both games sought out entertainment *and* immersion, and, in retrospect, as technology left both games behind, only the entertainment remained.
 
-No. They're not. They are, in truth, *small details* which all add to a greater whole. HL1 isn't impressive because it has reloading. It's impressive because it's taken a medium of gaming that has, only within the last half decade, truly come into its own... and it created something not just fun, but *interesting.* It made a living, breathing world. It immersed the player in a world that *existed*. That's precisely one of the things I think is truly underappreciated in retrospections of Half-Life 1. In a contemporary sense, the pre-incident chapter lets you see into a world not *entirely* dissimilar to our own.
+While we are left with a meaty narrative experience, we'll still take some time to talk about *what* that horror means to the rest of the game, and the means by which we actually achieved it.
 
-A living, breathing world where people are suffering system crashes, where your coworkers are complaining about banalities, donuts, and workplace-mandated fashion. It is Science Fiction, and yet all the same, it's a relatable world populated with people that don't seem all that unbelievable.
+# Technology
+Based upon the then-cutting-edge Quake engine, Half-Life had a development cycle of around two years and some change. While they did pipe in a few of the changes from Q2's release, Quake 1 nonetheless served as a more important platform upon which this game was built. 3D rendering, hardware acceleration, lighting technology, etc. etc. A lot of this existed *in* Quake 1. Doors, even fancy doors. Moving platforms, to some extent, but they were considerably refined here, for this game. Not just *moving* platforms, but *drivable* platforms!
 
-Obviously, this is something we consider pretty normal today. It's a hallmark of good fiction, in my opinion. The thing is, these details simply *didn't really exist* with as much nuance in any FPS game *before* Half-Life.
+Now, it's true that by the time that HL actually launched, it almost certainly *barely* resembled Quake under the hood. I believe most of the engine was re-written from scratch, generally. But the two most major changes, I reckon, would be the AI, and the skeletal animation. The former allowed for more convincing and robust NPC behavior--not to say that infighting is impossible in Quake, by any means, but better pathing, more potential for scripted sequences, and, importantly, having friendlies who follow you around, yap at each other, and open up doors.
 
-This isn't to say that those small details don't make HL1 a more "modern-feeling" game. They do. As do monster behaviors like Barnacles eating HECU, or Bullsquids antagonizing Headcrabs. It's more than simple cause-and-effect, it's an ecosystem. In fact, more than simply being an ecosystem, it's a caste-based alien civilization with haves and have-nots.
+In other words, **immersion!**
 
-Now, Xen's pretty divisive, and we'll get to that later, but basically what I'm trying to say is that HL1 raised the bar (Pun sort of intended) on what storytelling could be in an FPS game. More than simply cutscenes and epilogues, it told a story that you were *part of* rather than simply and solely being the hero of.
+The latter of aforementioned changes, skeletal animation, instead allows us to have more convincingly nuanced animations which aren't constantly bubbling and wobbling under the skin from their vertices contorting into new and exciting shapes. This allowed for more *complex* animations, more moving parts, more layers and granularity. Labcoats, gun magazines, complex actions like hanging onto a ladder... and falling off of it! With this increased fidelity, it, just as above, allowed us to create much more convincing situations that can unfold in front of the player.
 
-In fact, let's take a step back, and remove HL2 from the equation for a moment, and let's *really* think about the story.
+Smaller changes, too, like reloading guns, being able to crouch, cranking valves to open doors, driving trains, or pester your coworkers for drugs or covering fire, (or ruining their microwave meal), are all things which added to this immersion. The very presence of a Use button allowing us to supplement Medikits with on-wall healing terminals and suit-charging stations further added to the idea that Black Mesa is a believable workplace. With this immersion came the ability to make the horror feel *all that much more* real. Technology came in pursuit of a convincing narrative, of immersive horror, and in, very simply, better presentation.
 
-Freeman is, in a sense, responsible for the deaths of all of his coworkers, almost to the last. Personally responsible, in self-defense, for the death of dozens of US Marines. Billions of dollars of property damage. Freeman pulled the trigger on a gun the size of a small land-locked country. Even if we don't consider the ramifications HL2 gives us, Freeman, even though his role at first was vanishingly small, is ultimately at ground zero of the single most destructive and calamitous workplace accident... of all time.
+I promise that the chapter headers weren't supposed to work out *this* cleanly...
 
-Freeman, the character, has no agency in this. He has no agency, because the G-Man has been pulling every string to make this happen. He has no agency because the Player is controlling his every single action personally. Freeman is, in no way, Free. The closure that you are rewarded with is the promise that your time will come again, and until that day comes... nothing. An inky blackness stretching out in every direction, forever. The toys are put away. The program is closed. The puppet, strings still attached, is placed back in his closet where he belongs.
+# Presentation
 
-But whether through copious amounts of adrenaline and morphine, the fight-or-flight response gives Freeman ultimately no time to 
+# Gameplay
+
