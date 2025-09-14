@@ -1,0 +1,8 @@
+.fragment-mono-regular {
+  font-family: "Fragment Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+body {
+    font-family: "Fragment Mono";
+}
