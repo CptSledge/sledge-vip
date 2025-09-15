@@ -1,5 +1,5 @@
 # ABOUT THE AUTHOR
-
+#### [Back...](index.md)
 
 I'm Sledge! Known alternatively as CptSledge, Somagu, among many other progressively older and worse names. I am the owner of Hideous Destructor's semi-official Discord, and I am a long-term archivist of Doom mods, Roguelikes, and other such things. 
 
@@ -18,5 +18,7 @@ While this website is very much a work in progress, I'm hoping for it to be an i
 ## [The original review sheet!](games/fps/fps-friday.md)
 
 This contains, to date, my most extensive list of thoughts currently available anywhere online. The earlier games don't have proper reviews, or even vods of any kind, but that may change some day. Hopefully, ideally, I will actually have webpages for every single one of these. But for the time being... I don't. That sheet should also have parity with this website. If it doesn't, I fucked up. (Please contact me.)
+
+Helpful Helpers on this website have included Bunray, my significant other (and editor), and CryptidRei, who has contributed art assets, and is a really very lovely artist.
 
 #### [Back...](index.md)
