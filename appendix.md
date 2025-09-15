@@ -2,9 +2,12 @@ A *lot* of things are going to go here, but I'll probably have the newest stuff 
 
 For the time being, however, let's just get this going as a proof of concept.
 
-## [Half-Life](games/fps/half-life.md)
+|                Game                 |   Date   | Genre  |
+| :---------------------------------: | :------: | ------ |
+| [Half-Life](games/fps/half-life.md) | 9/8/2025 | FPS    |
+|           nothing yet...            | Soon...  | tbd... |
 
-### [More stuff!](olds.md)
+### [More (older) entries!](olds.md)
 
 
 
