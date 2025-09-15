@@ -8,12 +8,12 @@ body {
     font-family: "Fragment Mono, sans-serif";
 }
 .container {
-    max-width: 90%;
-    margin: 3%;
+    max-width: 90%; !important
+    margin: 3%; !important
 }
 .iframe  {
-    height: 1000px;
-    width: 1800px;
-    max-width: 90%;
-    max-height:90%;
+    height: 1000px; !important
+    width: 1800px; !important
+    max-width: 90%; !important
+    max-height:90%; !important
 }
