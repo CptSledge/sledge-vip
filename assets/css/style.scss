@@ -7,9 +7,10 @@
 body {
     font-family: "Fragment Mono, sans-serif";
 }
-main_content {
+container {
     max-width: 90%;
+    margin: 3%;
 }
-element {
+iframe {
     max-width: inherit;
 }
