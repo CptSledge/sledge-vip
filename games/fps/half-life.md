@@ -35,6 +35,32 @@ Smaller changes, too, like reloading guns, being able to crouch, cranking valves
 I promise that the chapter headers weren't supposed to work out *this* cleanly...
 
 # Presentation
+Of course, anyone who plays Half-Life can tell you about its sterile labs, its dry cliffsides (Mesas, one might say), and about how much they disliked Xen. There may be a few comments in there, too, about how many ventilation shafts and crates Black Mesa has, or about workplace safety violations, or its overgrown trash disposal system which almost certainly empties out of the nearby cliffsides into a tortured lake. Literal rivers of toxic sludge and nuclear waste.
+
+It's easy for us to just say "Well, yeah, it's Black Mesa! It's a huge research facility, so this kind of thing makes sense!" But, let's take time to *actually* think about whether it makes sense. Let's take just a moment to consider the scale of Black Mesa. The amount of money that has undoubtedly gone into it. We need to take a bit of time to address the reality of Black Mesa, and how it lends to the presentation, to the world-building.
+
+Black Mesa is a research facility which, in all likelihood, is the size of a small city. It is not only a gross flex of expenditure, it is one built *visibly* without any meaningful oversight or long-term planning. Take a moment to think about the doors you see on the tram ride into your workplace. Tons of moving parts. Literal tons of metal to make a blast door larger than a Main Battle Tank.
+
+But why?
+#### Because it's cool.
+
+Black Mesa was not simply constructed by its mappers as a flex of what could be done in the engine as a visual setpiece, it was *engineered* by eggheads with too much money and absolutely no sense for budgetary restraint. No sense for safety. Every bit of danger you see, every missing handrail, every collapsing platform, every rusted over catwalk over murky water, at one point, supported this entire workforce. On your way into Sector C Test Labs, there's a *gigantic spill of toxic waste* that your tram travels over, while the vox system helpfully reminds you of your regular health checkups. (Be sure you bring your friends and family for job opportunities!)
+
+For all of the spotless facades you pass by on your way to your workplace, hiding just behind them is overgrown piles of crates and musty, collapsing walls and ceiling tiles. Black Mesa is overgrown, yes, and it has *been* growing, likely longer than Gordon has been alive. Parts of the facility look like they date back at least 30, 40 years, and have gone not only completely untouched, but in some cases *walled over.* 
+
+Black Mesa represents the notion that opportunity does not always mean success. We will venture out on some idea, keep a skeleton crew running it... and leave them forgotten, hundreds of feet below ground, while the machines still churn. Sewer systems, elevators, ventilation shafts that go down four or more stories at a time; the more time you spend thinking about Black Mesa, the more you realize just how *truly awful* it is, and has always been, as a workplace.
+
+## Sound
+
+But, awful as it may be, it is alive. Even not considering the countless neurotic scientists and dead-inside security guards, the *soundscape* reminds you that, even outside of your personally journey, things are happening. Collapsing in some places, sure, under threat of artillery or oversized aliens, but in other places, the machines are quietly humming and chirping away. The gears are turning, unobstructed as they always have been. The machine moves on.
+
+The music is, at times, ambient. At other times, tense, and oppressive. Music is used as a *general* mood-setter that *adds* to the environments, and what populates them. While some people may simplify it down to the idea that "Music is used to tell people how to feel", I think that more often, music is better thought of as *an instrument* of the orchestra of the entire mood and setting as a whole.
+
+Which is really just an obnoxious way of saying "I think the music adds to the vibe." Which it does. Kelly Bailey did a fantastic job.
+
+On the topic of sound, more than just environmental, the *actual sound design* and, especially, the voice acting, is one of the things that further sets Half-Life aside from its contemporaries. Sure, you occasionally had voiced briefings in other games, and System Shock is a noted example of a game with *meaningful* voice acting, and almost half a decade prior! System Shock's dialog, however, was a lot less incidental. It was much more pointedly about the plot of the game, rather than the world that it's set in. Of course, pre-disaster dialog exists in both cases.
+
+
 
 # Gameplay
 
