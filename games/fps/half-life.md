@@ -60,8 +60,37 @@ Which is really just an obnoxious way of saying "I think the music adds to the v
 
 On the topic of sound, more than just environmental, the *actual sound design* and, especially, the voice acting, is one of the things that further sets Half-Life aside from its contemporaries. Sure, you occasionally had voiced briefings in other games, and System Shock is a noted example of a game with *meaningful* voice acting, and almost half a decade prior! System Shock's dialog, however, was a lot less incidental. It was much more pointedly about the plot of the game, rather than the world that it's set in. Of course, pre-disaster dialog exists in both cases.
 
+The dialog itself is ultimately mostly unimportant to the plot. The plot does not serve as exposition, or even closure. It serves as context for environmental clues. "Get topside" is not a story beat, nor is "They're coming for us, it's our only way out!" Every meaningful story beat is alluded to verbally, in a more general sense, at least, right up until you get to Delta Labs.
 
+"You'd *better* kill it."
 
+Not because we know it'll do anything. Not because we have a plan. There is no plan--the last pocket of stubborn staff, be they scientists or guards, are held up in a last ditch effort not to perform some scientific task, not with any specific *plan* to close the portal. Get to the other side, and *kill* it. In a sense, it's a poetic sort of verbal detachment. Geniuses and underpaid security staff, all relying on a desperate, blind ploy. Powerless to do anything but survive. And complain. They don't sound terrified, but they certainly don't sound like they've thought *any* of this through.
+
+Xen, once you get there, is oddly peaceful. Not exactly quiet, but peaceful. Ambient sounds with no real-world analog, and yet, hiding beneath the facade of this unfamiliar nature, we find... Alien factories. Mass-produced soldiers. A workplace which is not only alien, but just as completely hazardous as our own. The quietly worbling space-birds are now distant, and your only companion is bustling, tireless machinery, powering conveyor belts and lifts.
+
+Same as it ever was.
 # Gameplay
+
+This is the main part that I end up breaking down for the primary reviews, and while I probably won't be as meticulous about each and every single weapon, I would still like to talk about the arsenals as a whole. HL1's is maybe not perfectly immaculate, but I will give that the element of reloads does actually change the dynamic of shared ammo pools dramatically.
+
+Whereas in up-to-now traditional games, the distinction of a Shotgun and a Super Shotgun would be range, more than anything, here in HL1, despite the Pistol and the SMG sharing ammo, and despite the usual dichotomy of "range" applying perfectly well (The pistol's primary fire is perfectly accurate, nearly), it also allows for an additional layer of complexity, which is swapping weapons instead of reloading.
+
+Some games have, indeed, had reloading before HL1, certainly. Duke Nukem 3D did, and many of its Build brethren had it in some form, but often the tracking was a lot more crude, and you could not opt to switch away instead of finishing a reload. Once it started, you were committed. Here, you can offload that reloading time until after a fight has finished, or at least until you have a moment to breathe.
+
+Now, I won't pretend that HL1 was *definitely* the first game to have ever allowed for this. More research on that will happen as this website evolves. But I will say that this game is *among* the first. By balancing your combat on a smaller scale of HP, you can temper its pace by making reloads take *long enough* that they're actually important, rather than just being flavor and detail.
+
+Some may consider this weapon switching almost an *artifact* of a more classic style of FPS game. I personally feel it's a delightful take that allows the player to let *every* part of his arsenal shine in an effort to end fights as quickly and cleanly as possible. It also, uniquely, makes certain weapons like the Gauss Gun or your grenade launcher, *always* practical backups. You can offload your burden on the comparatively rare Energy ammo by switching between more specialized but longer-reloading weapons, like the revolver, or shotgun.
+
+Something you'll find me complaining about often is melee, and starter weapons. This applies to all of Classic and Less-Classic FPS games. I would like to make something perfectly clear.
+
+### I do not believe in weapon obsolescence.
+
+By giving a player a better weapon than one they already have *without* actually replacing that weapon, you are creating **dead space*** in their arsenal. You are creating buttons that they will never hit again. Things that *people worked on* and balanced which have completely left the equation of balance. I can find a better place to ramble about this, but as this is the first complete article of the website, I felt it needed to be said.
+
+**Never** make a weapon useless *solely* to make another weapon feel more powerful. The only, **only** place this holds any water is in certain types of horror games, where you want to make the player feel totally powerless. Where you want to make them afraid of spending their last bullet. Otherwise, it's simple tedium and wasted design.
+
+HL1, thankfully, sidesteps this. By giving most weapons a unique ammo type, everything always has a use. Now, I will grant that HL1 and HL2 don't have fantastic melee weapons. (Although Opposing Force does. More on that eventually.) The rest of the arsenal, however, is mostly good. Besides the hivehand, which has infinite homing ammo, and in fact I have seen some people fall for the ruse that it's clearly the best weapon because it's the safest and completely infinite. Neverminding that, it's pretty good. The grenades feel great, the satchels are fun to use, and quick-switching between power weapons in a hectic firefight is a ton of fun.
+
+I do love HL1. I am biased, completely. But it holds up very well to my since-evolved sensibilities of what makes combat Fun in an FPS game.
 
 #### [Back...](../../index.md)
