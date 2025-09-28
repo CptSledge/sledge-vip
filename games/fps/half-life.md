@@ -9,10 +9,8 @@ Quite a bit, in fact!
 
 Gabe, you see, in his long-time service of Microsoft, was among the staff that developed Doom95. This is an immensely important part of the context that makes HL1 what it is. 'Horror' is an interesting word, one which seems to evolve over time both to individuals as well as to us as a society. Most people would not look at Doom, today, and think 'Horror.' But at the time of its release, it was, indeed, quite spooky. Very atmospheric, and, importantly, **extremely immersive.*** This will come up a lot.
 
-<cen>![](../../hl1_1s.png)
-[This is a bit of test text so I can see if this actually works. If not, I'll just use href.](../../hl1_1.jpg)</cen>
-
-
+<center> <a href=../../hl1_1.jpg> <img src=../../hl1_1s.png> </a> </center>
+<pic>This is a bit of test text so I can see if this actually works. If not, I'll just use href.</pic>
 
 Immersion and horror go hand in hand. Gabe saw the success of Doom--success even in excess of Windows itself. And, realizing that he had the potential to meet the same success himself, he decided to split off of Microsoft, and make *his own* Doom. A big part *of* Doom, we would learn later on, was the Doom Bible. Reading it today, you will find an *immense* number of ambitious, immersive ideas, especially on part of Tom Hall, as to *what* Doom should be, what it should contain, what features it should strive for.
 
