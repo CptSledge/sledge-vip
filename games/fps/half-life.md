@@ -7,11 +7,11 @@ Today, we know Valve as the owners of Steam. Everyone, *everyone* knows Steam, i
 
 Quite a bit, in fact!
 
-Gabe, you see, in his long-time service of Microsoft, was among the staff that developed Doom95. This is an immensely important part of the context that makes HL1 what it is. 'Horror' is an interesting word, one which seems to evolve over time both to individuals as well as to us as a society. Most people would not look at Doom, today, and think 'Horror.' But at the time of its release, it was, indeed, quite spooky. Very atmospheric, and, importantly, **extremely immersive.*** This will come up a lot.
+Gabe, you see, in his long-time service of Microsoft, was among the staff that developed Doom95. This is an immensely important part of the context that makes HL1 what it is. 'Horror' is an interesting word, one which seems to evolve over time both to individuals as well as to us as a society. Most people would not look at Doom, today, and think 'Horror.' But at the time of its release, it was, indeed, quite spooky. Very atmospheric, and, importantly, **extremely immersive**. This will come up a lot.
 
 <pic> 
-<a href="../../hl1_1.jpg"> 
-<img src="../../hl1_1s.png"> 
+<a href="../../img/hl1_1.jpg"> 
+<img src="../../img/hl1_1s.png"> 
 </a> 
 </pic>
 <pic>This is a bit of test text so I can see if this actually works. If not, I'll just use href.</pic>
@@ -90,7 +90,7 @@ Some may consider this weapon switching almost an *artifact* of a more classic s
 
 Something you'll find me complaining about often is melee, and starter weapons. This applies to all of Classic and Less-Classic FPS games. I would like to make something perfectly clear.
 
-### I do not believe in weapon obsolescence.
+**I do not believe in weapon obsolescence.**
 
 By giving a player a better weapon than one they already have *without* actually replacing that weapon, you are creating **dead space*** in their arsenal. You are creating buttons that they will never hit again. Things that *people worked on* and balanced which have completely left the equation of balance. I can find a better place to ramble about this, but as this is the first complete article of the website, I felt it needed to be said.
 
