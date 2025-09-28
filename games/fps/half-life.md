@@ -9,6 +9,11 @@ Quite a bit, in fact!
 
 Gabe, you see, in his long-time service of Microsoft, was among the staff that developed Doom95. This is an immensely important part of the context that makes HL1 what it is. 'Horror' is an interesting word, one which seems to evolve over time both to individuals as well as to us as a society. Most people would not look at Doom, today, and think 'Horror.' But at the time of its release, it was, indeed, quite spooky. Very atmospheric, and, importantly, **extremely immersive.*** This will come up a lot.
 
+<cen>![](../../hl1_1s.png)
+[This is a bit of test text so I can see if this actually works. If not, I'll just use href.](../../hl1_1.jpg)</cen>
+
+
+
 Immersion and horror go hand in hand. Gabe saw the success of Doom--success even in excess of Windows itself. And, realizing that he had the potential to meet the same success himself, he decided to split off of Microsoft, and make *his own* Doom. A big part *of* Doom, we would learn later on, was the Doom Bible. Reading it today, you will find an *immense* number of ambitious, immersive ideas, especially on part of Tom Hall, as to *what* Doom should be, what it should contain, what features it should strive for.
 
 Famously, or perhaps infamously, Half-Life would suffer from the very same type of ambition. Moss growing on textures in real time. A living ecosystem. Cockroach AI which would actually seek out trash and viscera so that it could feed. Some of these features actually made it into HL1, in the end! Others were quietly shelved to meet deadlines. But, without compromise what it gave us was *Immersion.* It gave us *Horror.* The very same immersion and horror that we saw 5 years prior in Doom.
