@@ -14,7 +14,7 @@ Gabe, you see, in his long-time service of Microsoft, was among the staff that d
 <img src="../../img/hl1_1s.png"> 
 </a> 
 </pic>
-<pic>This is a bit of test text so I can see if this actually works. If not, I'll just use href.</pic>
+<pic>As a matter of fact, this opening room has some parallels with Doom's E1M1.</pic>
 
 Immersion and horror go hand in hand. Gabe saw the success of Doom--success even in excess of Windows itself. And, realizing that he had the potential to meet the same success himself, he decided to split off of Microsoft, and make *his own* Doom. A big part *of* Doom, we would learn later on, was the Doom Bible. Reading it today, you will find an *immense* number of ambitious, immersive ideas, especially on part of Tom Hall, as to *what* Doom should be, what it should contain, what features it should strive for.
 
