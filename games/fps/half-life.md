@@ -1,8 +1,8 @@
 # HALF-LIFE 1
-WHAT HAS SCIENCE DONE?!
+###### WHAT HAS SCIENCE DONE?!
 #### [Back...](../../index.md)
 # Background
-GO READ RAISING THE BAR
+###### GO READ RAISING THE BAR
 
 Ground zero for the modern concept of an FPS. This game made tremendous waves, and shook the entire industry. There were a lot of reasons for this, and it certainly didn't come out of nowhere. This was *the* game to see and play from the moment it was announced all the way up to its release. Game of the Year, and for many, the Game of All Time. This game scarcely needs an introduction, but for the purposes of this website, of course we shall do the best that we can.
 
@@ -42,7 +42,7 @@ Opening the gates to an invasion of hellish beasts, an outmatched military, goin
 While we are left with a meaty narrative experience, we'll still take some time to talk about *what* that horror means to the rest of the game, and the means by which we actually achieved it.
 
 # Technology
-IDTECH? MORE LIKE SUPEREGOTECH 😏
+###### IDTECH? MORE LIKE SUPEREGOTECH 😏
 
 Based upon the then-cutting-edge Quake engine, Half-Life had a development cycle of around two years and some change. While they did pipe in a few of the changes from Q2's release, Quake 1 nonetheless served as a more important platform upon which this game was built. 3D rendering, hardware acceleration, lighting technology, etc. etc. A lot of this existed *in* Quake 1. Doors, even fancy doors. Moving platforms, to some extent, but they were considerably refined here, for this game. Not just *moving* platforms, but *drivable* platforms!
 
@@ -73,7 +73,7 @@ Smaller changes, too, like reloading guns, being able to crouch, cranking valves
 I promise that the chapter headers weren't supposed to work out *this* cleanly...
 
 # Presentation
-INDUSTRIAL DECAY
+###### INDUSTRIAL DECAY
 
 Of course, anyone who plays Half-Life can tell you about its sterile labs, its dry cliffsides (Mesas, one might say), and about how much they disliked Xen. There may be a few comments in there, too, about how many ventilation shafts and crates Black Mesa has, or about workplace safety violations, or its overgrown trash disposal system which almost certainly empties out of the nearby cliffsides into a tortured lake. Literal rivers of toxic sludge and nuclear waste.
 
@@ -106,7 +106,7 @@ For all of the spotless facades you pass by on your way to your workplace, hidin
 Black Mesa represents the notion that opportunity does not always mean success. We will venture out on some idea, keep a skeleton crew running it... and leave them forgotten, hundreds of feet below ground, while the machines still churn. Sewer systems, elevators, ventilation shafts that go down four or more stories at a time; the more time you spend thinking about Black Mesa, the more you realize just how *truly awful* it is, and has always been, as a workplace.
 
 ## Sound
-GORDON *DOES* NEED TO HEAR ALL OF THIS
+###### GORDON *DOES* NEED TO HEAR ALL OF THIS
 
 But, awful as it may be, it is alive. Even not considering the countless neurotic scientists and dead-inside security guards, the *soundscape* reminds you that, even outside of your personally journey, things are happening. Collapsing in some places, sure, under threat of artillery or oversized aliens, but in other places, the machines are quietly humming and chirping away; or perhaps not so quietly thrumming and slamming. The gears are turning, unobstructed as they always have been. The machine moves on.
 
@@ -140,7 +140,7 @@ Xen, once you get there, is oddly peaceful. Not exactly quiet, but peaceful. Amb
 
 Same as it ever was.
 # Gameplay
-OPIATES AND ADRENALINE
+###### OPIATES AND ADRENALINE
 
 This is the main part that I end up breaking down for the primary reviews, and while I probably won't be as meticulous about each and every single weapon, I would still like to talk about the arsenals as a whole. HL1's is maybe not perfectly immaculate, but I will give that the element of reloads does actually change the dynamic of shared ammo pools dramatically.
 
