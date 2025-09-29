@@ -22,6 +22,15 @@ Famously, or perhaps infamously, Half-Life would suffer from the very same type 
 
 Half-Life was, from its inception, a horror game. It was marketed as such. Its tutorial highlights the importance of using your flashlight in dark areas. Crawling through vents. Far more than Quake 1 or 2 were before it, we are taught early on the importance of *darkness*, and the things that hide in it.
 
+
+<pic> 
+<a href="../../img/hl1_2.jpg"> 
+<img src="../../img/hl1_2s.png"> 
+</a> 
+</pic>
+<pic>Mind you, this may actually be the darkest room in the game that isn't a ventilation shaft.</pic>
+
+
 But that horror extends past mere shapes in the dark! That horror extends to *miscommunication,* as US Marines descend from helicopters to erase your mistakes. *Mismanagement,* as the powers that be arranged for this apocalyptic event in the first place--bureaucracy at the head of science, pushing ever forward. A crushing, overwhelming sense that, in the end, *you are completely powerless to change your own fate.* **Horror.**
 
 Opening the gates to an invasion of hellish beasts, an outmatched military, going through a portal and fixing problems on the other side, we must recognize an interesting parallel. Half-Life *is* Doom. It told the story, or at least *a form* of the story that Doom had once aspired to, and, just like Doom, it did so at the cutting edge of the technology which was possible at the time of its release. Both games sought out entertainment *and* immersion, and, in retrospect, as technology left both games behind, only the entertainment remained.
@@ -31,11 +40,29 @@ While we are left with a meaty narrative experience, we'll still take some time 
 # Technology
 Based upon the then-cutting-edge Quake engine, Half-Life had a development cycle of around two years and some change. While they did pipe in a few of the changes from Q2's release, Quake 1 nonetheless served as a more important platform upon which this game was built. 3D rendering, hardware acceleration, lighting technology, etc. etc. A lot of this existed *in* Quake 1. Doors, even fancy doors. Moving platforms, to some extent, but they were considerably refined here, for this game. Not just *moving* platforms, but *drivable* platforms!
 
+
+<pic> 
+<a href="../../img/hl1_3.jpg"> 
+<img src="../../img/hl1_3s.png"> 
+</a> 
+</pic>
+<pic>There's no way that drivable trains could possibly go wrong.</pic>
+
+
 Now, it's true that by the time that HL actually launched, it almost certainly *barely* resembled Quake under the hood. I believe most of the engine was re-written from scratch, generally. But the two most major changes, I reckon, would be the AI, and the skeletal animation. The former allowed for more convincing and robust NPC behavior--not to say that infighting is impossible in Quake, by any means, but better pathing, more potential for scripted sequences, and, importantly, having friendlies who follow you around, yap at each other, and open up doors.
 
 In other words, **immersion!**
 
 The latter of aforementioned changes, skeletal animation, instead allows us to have more convincingly nuanced animations which aren't constantly bubbling and wobbling under the skin from their vertices contorting into new and exciting shapes. This allowed for more *complex* animations, more moving parts, more layers and granularity. Labcoats, gun magazines, complex actions like hanging onto a ladder... and falling off of it! With this increased fidelity, it, just as above, allowed us to create much more convincing situations that can unfold in front of the player.
+
+
+<pic> 
+<a href="../../img/hl1_4.jpg"> 
+<img src="../../img/hl1_4s.png"> 
+</a> 
+</pic>
+<pic>Should have spent less time working out at the library.</pic>
+
 
 Smaller changes, too, like reloading guns, being able to crouch, cranking valves to open doors, driving trains, or pester your coworkers for drugs or covering fire, (or ruining their microwave meal), are all things which added to this immersion. The very presence of a Use button allowing us to supplement Medikits with on-wall healing terminals and suit-charging stations further added to the idea that Black Mesa is a believable workplace. With this immersion came the ability to make the horror feel *all that much more* real. Technology came in pursuit of a convincing narrative, of immersive horror, and in, very simply, better presentation.
 
@@ -51,9 +78,26 @@ Black Mesa is a research facility which, in all likelihood, is the size of a sma
 But why?
 #### Because it's cool.
 
+<pic> 
+<a href="../../img/hl1_6.jpg"> 
+<img src="../../img/hl1_6s.png"> 
+</a> 
+</pic>
+<pic>And you better believe the Anti-Mass Spectrometer is cool.</pic>
+
+
 Black Mesa was not simply constructed by its mappers as a flex of what could be done in the engine as a visual setpiece, it was *engineered* by eggheads with too much money and absolutely no sense for budgetary restraint. No sense for safety. Every bit of danger you see, every missing handrail, every collapsing platform, every rusted over catwalk over murky water, at one point, supported this entire workforce. On your way into Sector C Test Labs, there's a *gigantic spill of toxic waste* that your tram travels over, while the vox system helpfully reminds you of your regular health checkups. (Be sure you bring your friends and family for job opportunities!)
 
 For all of the spotless facades you pass by on your way to your workplace, hiding just behind them is overgrown piles of crates and musty, collapsing walls and ceiling tiles. Black Mesa is overgrown, yes, and it has *been* growing, likely longer than Gordon has been alive. Parts of the facility look like they date back at least 30, 40 years, and have gone not only completely untouched, but in some cases *walled over.* 
+
+
+<pic> 
+<a href="../../img/hl1_5.jpg"> 
+<img src="../../img/hl1_5s.png"> 
+</a> 
+</pic>
+<pic>Not to mention this ACME-lookin' ass cartoon bridge.</pic>
+
 
 Black Mesa represents the notion that opportunity does not always mean success. We will venture out on some idea, keep a skeleton crew running it... and leave them forgotten, hundreds of feet below ground, while the machines still churn. Sewer systems, elevators, ventilation shafts that go down four or more stories at a time; the more time you spend thinking about Black Mesa, the more you realize just how *truly awful* it is, and has always been, as a workplace.
 
