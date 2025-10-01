@@ -12,7 +12,7 @@ Today, we know Valve as the owners of Steam. Everyone, *everyone* knows Steam, i
 
 Quite a bit, in fact!
 
-Gabe, you see, in his long-time service of Microsoft, was among the staff that developed Doom95. This is an immensely important part of the context that makes HL1 what it is. 'Horror' is an interesting word, one which seems to evolve over time both to individuals as well as to us as a society. Most people would not look at Doom, today, and think 'Horror.' But at the time of its release, it was, indeed, quite spooky. Very atmospheric, and, importantly, **extremely immersive**. This will come up a lot.
+Gabe, you see, in his long-time service of Microsoft, was among the staff that developed Doom95. This is an immensely important part of the context that makes HL1 what it is. 'Horror' is an interesting word, one which seems to evolve over time both to individuals as well as to us as a society. Most people would not look at Doom, today, and think 'Horror.' But at the time of its release, it was, indeed, quite spooky. Very atmospheric and, importantly, **extremely immersive**. This will come up a lot.
 
 <pic> 
 <a href="../../img/hl1_1.jpg"> 
@@ -21,7 +21,7 @@ Gabe, you see, in his long-time service of Microsoft, was among the staff that d
 </pic>
 <pic>In fact, they stole E1M1 almost shot for shot.</pic>
 
-Immersion and horror go hand in hand. Gabe saw the success of Doom--success even in excess of Windows itself. And, realizing that he had the potential to meet the same success himself, he decided to split off of Microsoft, and make *his own* Doom. A big part *of* Doom, we would learn later on, was the Doom Bible. Reading it today, you will find an *immense* number of ambitious, immersive ideas, especially on part of Tom Hall, as to *what* Doom should be, what it should contain, what features it should strive for.
+Immersion and horror go hand in hand. Gabe saw the success of Doom--success even in excess of Windows itself. And, realizing that he had the potential to meet the same success himself, he decided to split off of Microsoft and make *his own* Doom. A big part *of* Doom, we would learn later on, was the Doom Bible. Reading it today, you will find an *immense* number of ambitious, immersive ideas, especially on part of Tom Hall, as to *what* Doom should be, what it should contain, what features it should strive for.
 
 Famously, or perhaps infamously, Half-Life would suffer from the very same type of ambition. Moss growing on textures in real time. A living ecosystem. Cockroach AI which would actually seek out trash and viscera so that it could feed. Some of these features actually made it into HL1, in the end! Others were quietly shelved to meet deadlines. But, without compromise what it gave us was *Immersion.* It gave us *Horror.* The very same immersion and horror that we saw 5 years prior in Doom.
 
@@ -37,7 +37,7 @@ Half-Life was, from its inception, a horror game. It was marketed as such. Its t
 
 But that horror extends past mere shapes in the dark! That horror extends to *miscommunication,* as US Marines descend from helicopters to erase your mistakes. *Mismanagement,* as the powers that be arranged for this apocalyptic event in the first place--bureaucracy at the head of science, pushing ever forward. A crushing, overwhelming sense that, in the end, *you are completely powerless to change your own fate.* **Horror.**
 
-Opening the gates to an invasion of hellish beasts, an outmatched military, going through a portal and fixing problems on the other side, we must recognize an interesting parallel. Half-Life *is* Doom. It told the story, or at least *a form* of the story that Doom had once aspired to, and, just like Doom, it did so at the cutting edge of the technology which was possible at the time of its release. Both games sought out entertainment *and* immersion, and, in retrospect, as technology left both games behind, only the entertainment remained.
+Opening the gates to an invasion of hellish beasts, an outmatched military, going through a portal and fixing problems on the other side, we must recognize an interesting parallel. Half-Life *is* Doom. It told the story, or at least *a form* of the story that Doom had once aspired to, and just like Doom, it did so at the cutting edge of the technology which was possible at the time of its release. Both games sought out entertainment *and* immersion, and in retrospect, as technology left both games behind, only the entertainment remained.
 
 While we are left with a meaty narrative experience, we'll still take some time to talk about *what* that horror means to the rest of the game, and the means by which we actually achieved it.
 
@@ -45,6 +45,8 @@ While we are left with a meaty narrative experience, we'll still take some time 
 ###### IDTECH? MORE LIKE SUPEREGOTECH 😏
 
 Based upon the then-cutting-edge Quake engine, Half-Life had a development cycle of around two years and some change. While they did pipe in a few of the changes from Q2's release, Quake 1 nonetheless served as a more important platform upon which this game was built. 3D rendering, hardware acceleration, lighting technology, etc. etc. A lot of this existed *in* Quake 1. Doors, even fancy doors. Moving platforms, to some extent, but they were considerably refined here, for this game. Not just *moving* platforms, but *drivable* platforms!
+
+And, beyond that, Hammer (Worldcraft), which was bought up by Valve early on in its development, almost certainly helped to make *actually constructing* these environments and setpieces much less of a pain in the ass in their workflow. From what limited research I could do on QuakeEd, neverminding the requisite of a NeXTSTEP workstation, it was quite a bit more cumbersome. Moving objects on the Z-axis required manipulating a slider, rather than the intuitive click-and-drag elements of later editors. Creating non-blocky shapes was a huge pain in the ass, and by and large it more resembled an overgrown form of Doom's map editing than what we would come to appreciate with later editors. (Obviously this benefited Quake mapping, too, but we're talking about the *development of the game* here.)
 
 
 <pic> 
@@ -54,7 +56,7 @@ Based upon the then-cutting-edge Quake engine, Half-Life had a development cycle
 </pic>
 <pic>27 years old and no driver's license. Shameful.</pic>
 
-Now, it's true that by the time that HL actually launched, it almost certainly *barely* resembled Quake under the hood. I believe most of the engine was re-written from scratch, generally. But the two most major changes, I reckon, would be the AI, and the skeletal animation. The former allowed for more convincing and robust NPC behavior--not to say that infighting is impossible in Quake, by any means, but better pathing, more potential for scripted sequences, and, importantly, having friendlies who follow you around, yap at each other, and open up doors.
+Now, it's true that by the time that HL actually launched, it almost certainly *barely* resembled Quake under the hood. I believe most of the engine was re-written from scratch, generally. But the two most major changes, I reckon, would be the AI, and the skeletal animation. The former allowed for more convincing and robust NPC behavior--not to say that infighting is impossible in Quake, by any means, but better pathing, more potential for scripted sequences, and importantly, having friendlies who follow you around, yap at each other, and open up doors.
 
 In other words, **immersion!**
 
@@ -140,7 +142,7 @@ Xen, once you get there, is oddly peaceful. Not exactly quiet, but peaceful. Amb
 
 Same as it ever was.
 # Gameplay
-###### OPIATES AND ADRENALINE
+###### RUN. THINK. SHOOT. LIVE.
 
 This is the main part that I end up breaking down for the primary reviews, and while I probably won't be as meticulous about each and every single weapon, I would still like to talk about the arsenals as a whole. HL1's is maybe not perfectly immaculate, but I will give that the element of reloads does actually change the dynamic of shared ammo pools dramatically.
 
@@ -167,7 +169,7 @@ By giving a player a better weapon than one they already have *without* actually
 
 **Never** make a weapon useless *solely* to make another weapon feel more powerful. The only, **only** place this holds any water is in certain types of horror games, where you want to make the player feel totally powerless. Where you want to make them afraid of spending their last bullet. Otherwise, it's simple tedium and wasted design.
 
-HL1, thankfully, sidesteps this. By giving most weapons a unique ammo type, everything always has a use. Now, I will grant that HL1 and HL2 don't have fantastic melee weapons. (Although Opposing Force does. More on that eventually.) The rest of the arsenal, however, is mostly good. Besides the hivehand, which has infinite homing ammo, and in fact I have seen some people fall for the ruse that it's clearly the best weapon because it's the safest and completely infinite. Neverminding that, it's pretty good. The grenades feel great, the satchels are fun to use, and quick-switching between power weapons in a hectic firefight is a ton of fun.
+HL1 thankfully, sidesteps this. By giving most weapons a unique ammo type, everything always has a use. Now, I will grant that HL1 and HL2 don't have fantastic melee weapons. (Although Opposing Force does. More on that eventually.) The rest of the arsenal, however, is mostly good. Besides the hivehand, which has infinite homing ammo, and in fact I have seen some people fall for the ruse that it's clearly the best weapon because it's the safest and completely infinite. Neverminding that, it's pretty good. The grenades feel great, the satchels are fun to use, and quick-switching between power weapons in a hectic firefight is a ton of fun.
 
 <pic> 
 <a href="../../img/hl1_10.jpg"> 
@@ -176,6 +178,68 @@ HL1, thankfully, sidesteps this. By giving most weapons a unique ammo type, ever
 </pic>
 <pic>And just look at these delightful little guys!</pic>
 
-I do love HL1. I am biased, completely. But it holds up very well to my since-evolved sensibilities of what makes combat Fun in an FPS game.
+Uh anyway, over half of this section so far was almost dedicated to an intro to my sensibilities on weapons moreso than actually talking about HL1's balance. *SO*, we actually have a few things I'd like to draw attention to.
 
+The Revolver and Crossbow do have overlap, yes, but in this instance, I feel that the importance of reloads (and the length of said reloads) is an important factor in why I'm okay with the shared presence of both. On Hard, one headshot is sufficient to kill *most* things with either weapon, whereas a body shot is not. This encourages a level of precision uncommon in FPS games up to this point, which is fun.
+
+The grenades are *absolutely* wonderful. Over 25 years later, I'm still impressed by how fun they are to throw. Cooking grenades, directionally-influenced by your movement and momentum, and the charge-up nature of your throw strength all combine to give you a *surgical* level of control over where your grenades actually go and when they blow up.
+
+Ammo balance is, in a general sense, pretty nice. Many weapons are slow-build slow-burn, whereas 9mm is quick to come and quick to go. It's the pepper between every other power weapon, and the perfect panic complement to your workhorse shotgun. There's little your SMG *can't* do with a few grenades on hand.
+
+The progression of your weapons is also well-done. You are given a pretty steady dripfeed of new toys all the way up until the end of the game with the Egon Gun, and it certainly feels like an end-of-game weapon. Not terribly far removed from a Lightning Gun with no maximum range, it'll chew through your cell ammo quickly, but it'll make short work of *anything.* While I have some misgivings about its efficiency and versatility compared to the Gauss Gun, the way it sucks up your batteries makes it a little more acceptable.
+
+<pic> 
+<a href="../../img/hl1_13.jpg"> 
+<img src="../../img/hl1_13s.png"> 
+</a> 
+</pic>
+<pic>ooh bloo bloo "I don't have the heart to use it on a living creature" cRY ME A RIVER</pic>
+
+It's *much* worse in Black Mesa, but we're not talking about that. Yet.
+
+## Enemies
+###### MY! ASS! IS! HEAVY!
+
+This is the part where any reasonable person would expect me to gush about HECU and how much I love HECU and how great HECU are and Ackshually they're Very Stupid and if you look at the code and how often their code loses track of what they're doing--
+
+*Shut up,* Tulpa Viewer! Your trivia interests me not. Yes, it's true, their habit of placing grenades at their feet can be considered Silly, but I can personally confirm that past a certain point of aggression (especially that of an aggressive player well-attuned to Deathmatch), it actually is a pretty effective form of area denial, *so much so* that I do it in other games to actually pretty good effect.
+
+The bestiary is indeed, something I would like to praise at least in part. Many enemies have neat interplay with each other, either within the same species or without. Bullsquids will antagonize headcrabs, and the strength of a houndeye's sonic bark escalates *considerably* in the presence of additional dogs, to the point where it'll pretty much just kill you outright. This is pretty novel behavior, both then and now, as it's actually surprisingly rare to see enemies cooperating or collectively performing any task either on purpose OR by accident.
+
+Most of all though, I would specifically like to talk about Vortigaunts. Yes, yes, Tony Todd, yes, I know, they're so charming in HL2. In a gameplay perspective, however, they are probably one of my favorite parts of HL1. By requiring line of sight with a delayed attack, they are not only directly informing a player to seek cover, but they're informing the *mapper* that their map *may not have enough cover in the first place.* They're fun. They have good range, perfect accuracy, but an attack just loud and just delayed enough to either force a snapshot or find cover without significantly interrupting the flow of combat like, say, a Vore from Quake. They're great!
+
+HECU, of course, are good. Half-Life fans are an annoying sort for how much they never *shut the fuck up* about how great HECU are. Problem is, on some level, it is kind of deserved. They are *exceptionally* fun to fight, they have just the right amount of HP and aggression, they make good use of explosives, and they have pretty iconic sound design.
+
+<pic> 
+<a href="../../img/hl1_12.jpg"> 
+<img src="../../img/hl1_12s.png"> 
+</a> 
+</pic>
+<pic>Should have been using 45 ACP instead of 9mm. 😔</pic>
+
+And yes, occasionally they're a bit stupid. They're crayon eaters, what do you expect? They literally spraypaint YOUR DEAD FREEMEN on the wall. Do you think after having some insane, nearly-unkillable scientist armed with experimental weaponry sending superhot metal through their stomach that they're worried about accidentally blowing themselves up with their own grenade? *No.*
+
+Ichthyosaurs are also wonderful creatures. Sort of like sabertooth tigers but in shark form. Your introduction to them is one snatching up a scientist off of a catwalk and it's a really shocking setpiece the first time around, matched only by the dread of realizing you have to go *right in after it.*
+
+Not to say that the bestiary is perfect, no. Alien Grunts are somewhat annoying, although their armored nature is interesting, the hivehand isn't terribly fun to engage with, but it sort of just incentivizes you to kill it faster.
+
+As for bosses, the Gonarch is a neat boss the first time, but very painfully scripted once you become comfortable with it, and Nihilanth himself is really nominally just a 2 minute puzzle boss with some good signaling and some... not so good.
+
+# Closing
+###### Rather an anti-climax after everything that you've been through.
+
+Half-Life 1 reshaped the entire climate of FPS games. While I can't be entirely sure what it is that makes people look back on a game fondly or not, I'd like to say that, in an objective sense, HL1 is still very much worth playing today, not only because it's *fun*, but because it's simply very well-put together. It's atmospheric, and immersive. Under the right conditions, it might even give you a scare once or twice. But scares or not, the stifled and stuttering words of the G-Man are every bit as off-putting today as they were back in 1998.
+
+<pic> 
+<a href="../../img/hl1_11.jpg"> 
+<img src="../../img/hl1_11s.png"> 
+</a> 
+</pic>
+<pic>Imagine the smell.</pic>
+
+I'm hoping I can crank these out at a faster rate moving forward. I'm at an awkward impasse right now where I simultaneously feel like I rambled by far too long, but not nearly enough. It's an uncomfortable middle ground, putting a leash on my stream of consciousness, because however much assurance I get that I should *truly* cut loose and just go nuts and keep writing and writing and writing, I'm sincerely not sure where to actually stop. Ultimately, I could circle back and continue doing more and more research and specific deep dives on every part of this game from the func_trains all the way up to the funny cone-shaped revolver.
+
+With that being said, Marphy Black is already doing that, and, more importantly, that wouldn't be fair *or* reasonable to *every other game* I'd like to review, because the vast majority of them have *by far* more limited details on *what* I can research and feasibly talk about at length.
+
+*Everyone* should play Half-Life 1 at least once. You don't have to enjoy it, or even agree with most of what I said. But if you want to *personally* cross the threshold between Classic and Modern FPS... you're looking at it.
 #### [Back...](../../index.md)
